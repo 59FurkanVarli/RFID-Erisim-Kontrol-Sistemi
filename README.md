@@ -1,3 +1,6 @@
+# Proje Tanıtım Videosu
+[![Arduino RFID Güvenlik Sistemi](https://img.youtube.com/vi/v4eHt4PyMqg/0.jpg)](https://www.youtube.com/watch?v=v4eHt4PyMqg)
+
 # Arduino RFID & Keypad Güvenlik Sistemi 🔒
 
 Bu proje, Arduino tabanlı, RFID kart ve tuş takımı (Keypad) entegrasyonuna sahip gelişmiş bir kapı kilit sistemidir. Sistem, yetkili kullanıcıların kart okuttuktan sonra şifre girmesini gerektirir (2 Faktörlü Kimlik Doğrulama benzeri) ve tüm verileri EEPROM üzerinde güvenli bir şekilde saklar.
