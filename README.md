@@ -56,3 +56,8 @@ Bu projeyi derlemek için Arduino IDE üzerinden şu kütüphaneleri kurmalısı
 5.  İlk kullanımda şifreler "1234" olarak ayarlanacaktır.
 
 
+## 🐍 Python Log Sistemi (Opsiyonel)
+
+Sistem, giriş çıkış verilerini bilgisayara kaydetmek için bir Python scripti içerir. Arduino USB ile bilgisayara bağlıyken bu scripti çalıştırırsanız, tüm hareketler `Giris_Kayitlari.csv` dosyasına Excel formatında kaydedilir.
+
+
