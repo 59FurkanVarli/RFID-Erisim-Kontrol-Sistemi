@@ -52,6 +52,4 @@ Bu projeyi derlemek için Arduino IDE üzerinden şu kütüphaneleri kurmalısı
 4.  Kodu Arduino'ya yükleyin.
 5.  İlk kullanımda şifreler "1234" olarak ayarlanacaktır.
 
-## ⚠️ Uyarı
 
-Bu kod eğitim amaçlıdır. Gerçek bir güvenlik sisteminde kullanmadan önce röle bağlantılarını ve güç kaynağını kontrol ediniz.
